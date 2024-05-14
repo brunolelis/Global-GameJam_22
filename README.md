@@ -1,2 +1,2 @@
-# Global-GameJam_22
- GlobalGameJam-22_UNICAMP
+# Run and Chase
+Done in 48h for the Global Game Jam 2022 UNICAMP - Gamux
